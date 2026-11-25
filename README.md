@@ -90,5 +90,5 @@ http://localhost:3000
 
 ## Live Demo
 
-- **Frontend:** `https://yieldmind-cqenitsff-jamess-projects1.vercel.app`
+- **Frontend:** `https://yieldmind-zeta.vercel.app/`
 - **Contract:** `https://explorer.sepolia.mantle.xyz/address/0x1Fa60f8621908Bf44A75E0210AFdf51C7F4a9bf1`
